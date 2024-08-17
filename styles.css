@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Doe - Cybersecurity Professional</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>John Doe</h1>
+        <h2>Cybersecurity Professional</h2>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Experienced cybersecurity professional with a passion for protecting digital assets and educating others about online safety.</p>
+        </section>
+
+        <section id="experience">
+            <h2>Work Experience</h2>
+            <ul>
+                <li>
+                    <h3>Senior Security Analyst - XYZ Corp</h3>
+                    <p>2018 - Present</p>
+                    <ul>
+                        <li>Led threat hunting initiatives</li>
+                        <li>Implemented security awareness training program</li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Information Security Specialist - ABC Inc</h3>
+                    <p>2015 - 2018</p>
+                    <ul>
+                        <li>Conducted vulnerability assessments</li>
+                        <li>Managed incident response procedures</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Network Security</li>
+                <li>Penetration Testing</li>
+                <li>Incident Response</li>
+                <li>Security Information and Event Management (SIEM)</li>
+                <li>Python, Bash Scripting</li>
+            </ul>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Automated Threat Detection System</h3>
+                    <p>Developed a custom threat detection system using machine learning algorithms.</p>
+                </li>
+                <li>
+                    <h3>Security Awareness Training Platform</h3>
+                    <p>Created an interactive online platform for employee security awareness training.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: john.doe@email.com</p>
+            <p>LinkedIn: linkedin.com/in/johndoe</p>
+            <p>GitHub: github.com/johndoe</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 John Doe. All rights reserved.</p>
+    </footer>
+</body>
+</html>
